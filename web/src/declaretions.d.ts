@@ -1,0 +1,6 @@
+declare module 'json-editor-vue3'
+//declare module 'lodash'
+declare module 'mockjs'
+declare module 'vue-router'
+declare module 'js-md5'
+declare module 'prismjs'

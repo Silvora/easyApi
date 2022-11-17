@@ -1,0 +1,31 @@
+$themes: (
+     "light": (
+       background-color: #f8f8f8,
+       background-slider: #fff,
+       font-basis-color: #b6bbc9,
+       box-border: #b6bbc9,
+       transition: 0.2s,
+
+       color-font-normal: #a6acbd,
+       color-font-light: #fff,
+       color-font-dark: #003049,
+       color-pink: #f72585,
+       color-green: #22b07d,
+       color-logo: #1081e8
+     ),
+     "dark": (
+       background-color: #1e1e1e,
+       background-slider: #171717,
+       font-basis-color: #f0f0f0,
+       box-border: none,
+       transition: 0.2s,
+
+       color-normal: #a6acbd,
+       color-font-normal: #fff,
+       color-font-light: #fff,
+       color-font-dark: #fff,
+       color-pink: #f72585,
+       color-green: #22b07d,
+       color-logo: #fff
+     ),
+   );
